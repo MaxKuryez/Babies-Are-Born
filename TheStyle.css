@@ -1,0 +1,76 @@
+body {
+	background-color: #f7eade;
+}
+
+h1 {
+	color: purple;
+	text-align: center;
+}
+
+h3{
+	color: #72bcd4;
+	font-size: 25px;
+}
+
+#container{
+           background-color: white;
+		   width: 1000px;
+}
+
+p {
+	font-family: "Times New Roman";
+	font-size: 14px;
+}
+
+textarea{
+	width: 100;
+    text-align: center;
+	right: 100px;
+	 resize: none;
+}
+
+header{
+	background-color: #EEEEEE;
+	color: brown;
+	border: 4px brown dashed;
+	
+}
+
+aside{
+text-align: center;
+font-size: 15px;
+
+}
+
+.mapdiv path {
+    fill: green;
+    stroke: #dece0c;
+    stroke-width:4px;
+    transition: fill 0.3s;
+	cursor: pointer;
+}
+
+.mapdiv g {
+    fill: #cc1100;
+    stroke: #dece0c;
+    stroke-width:4px;
+    transition: fill 0.3s;
+}
+
+/*.mapdiv :hover {
+    fill:#00FA9A;
+	
+}*/
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
