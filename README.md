@@ -1,2 +1,3 @@
 # Babies-Are-Born
-My first Web Application project
+My first Web Application project using Javascript
+
